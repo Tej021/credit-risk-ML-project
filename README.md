@@ -3,7 +3,7 @@
 <h1 align="center">CREDIT RISK ANALYSIS</h1>
 <p align="center">
   <a href="https://github.com/kp-stats/Credit-Risk-ML-Project/">
-   <img src="resources\credit.gif" alt="Description of the GIF" width="300" height="150">
+   <img src="resources\credit.1.gif" alt="Description of the GIF" width="300" height="150">
   </a>
 
   <p align="center">
@@ -28,7 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <h3> Problem Statement</h3> 
-<p align="center"> <img src="resources\problem.gif" alt="method" width="300"  height="150"></p>
+<p align="center"> <img src="resources\credit.2..gif" alt="method" width="300"  height="150"></p>
 <p>
 This project aims to analyze credit risk using a dataset containing various financial and demographic attributes. The analysis includes cleaning, exploring, and modeling data to predict credit risk. The objective is to identify key factors that influence creditworthiness and develop a predictive model for assessing risk levels.</p>
 
@@ -51,7 +51,7 @@ The dataset consists of multiple features related to the financial behavior and 
 
 ## Methodology
 
-<p align="center"> <img src="resources\METHOD.gif"  alt="method" width="300" height="150"></p>
+<p align="center"> <img src="resources\credit_jpg.gif"  alt="method" width="300" height="150"></p>
 
 <ul>
 <li><b>Data Cleaning:</b> Handling missing values and data inconsistencies.</li>
